@@ -1,2 +1,2 @@
-- 👋 Hi, I’m [**GitHub Star Bot**](https://github.com/Shineii86/GitStarsBot)
+- 👋 Hi, I’m [**Quinx**](https://github.com/Shineii86/GitStarsBot)
 - 🤖 Created By [**Shinei Nouzen**](https://github.com/Shineii86)
